@@ -1,1 +1,1 @@
-# https-kullaniciad-n.github.io-bot-privacy-policy-terms
+# Terms of Service  By using this Discord bot, you agree to the following terms.  The bot is provided "as is" without any warranties. The developer is not responsible for any damage or issues caused by using the bot.  Users must comply with Discord's Terms of Service while using the bot. Abuse, exploitation, or misuse of the bot is prohibited.
